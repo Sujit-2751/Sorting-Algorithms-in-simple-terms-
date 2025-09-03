@@ -31,3 +31,14 @@ Stable :	✅ Yes
 8.Radix Sort	Sort digit by digit (like sorting phone numbers).
 T.C. :	O(nk),
 Stable :	✅ Yes
+
+
+🧩 What Does “Stable” Mean?
+-> A stable sort keeps equal elements in their original relative order. 👉 Useful when sorting objects with multiple fields (e.g., sorting by age, then by name).
+
+🚀 Quick Tips for You
+• For small or nearly sorted arrays: "Insertion Sort" is smooth.
+
+• For large datasets: "Merge Sort" is reliable and stable.
+
+• For performance with integers: "Counting or Radix Sort" are blazing fast.
